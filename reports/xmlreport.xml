@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="51.996329">
+<testcase classname="Testing of elearning portal" name="Register to elearning portal" time="51.996329">
+<system-out><![CDATA[Given I have opened the elearning page......................................passed
+When Enter the "Arifa" "Khatoon" "test3@test.com" "Arifa_ibmn" "Arifa_ibm" "Arifa_ibm".passed
+Then Register is successful.................................................passed
+And Goto Inbox..............................................................passed
+And Send Email..............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
